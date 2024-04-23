@@ -13,6 +13,8 @@ Two main branches of legal scholarship examine sovereignty's application to cybe
 
 Three generations of internet law scholars have explored the effects of applying sovereignty online on the future of the internet. Most such scholars use  "sovereignty" to discuss the exercise of state authority over the online sphere in general terms, rather than using “sovereignty” in the manner that international legal scholars use the term. Such scholarship often reflects the normative commitments of the (English-speaking) internet law academy (of which I am a card-carrying member) that a free and open global internet is a _summum bonum,_ and is consistent with the policy interests of foreign ministries in most democratic states in promoting the same. 
 
+Ein Anbieter von Telemedien ist verpflichtet, der KJM Auskunft über die Angebote und über die zur Wahrung des Jugendschutzes getroffenen Maßnahmen zu geben und ihr auf Anforderung den unentgeltlichen Zugang zu den Angeboten zu Kontrollzwecken zu ermöglichen.
+
 Meanwhile, international legal scholars have focused on the application of sovereignty online principally in the context of cyberwarfare and other cyber operations, such as digital espionage. Many of these scholars have defense backgrounds reflect the policy priorities of defense ministries in their work. However, their _déformation professionelle_ leads them to overlooks the implications of extending territorial sovereignty to the peaceful uses of cyberspace, which constitute the vast majority of internet traffic. 
 
 ### Three Generations of Internet Law Scholarship
